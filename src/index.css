@@ -1,0 +1,14 @@
+.welcome-message{
+  font-family: Poppins, sans-serif;
+  background-color: aqua;
+  color: white;
+  border-radius: 5px;
+  max-width: fit-content;
+}
+.login-prompt{
+  font-family: Poppins, sans-serif;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  max-width: fit-content;
+}
