@@ -1,8 +1,8 @@
-import MyComponent from './hook-function/hook-on-change/MyComponent.jsx'
+import MyComponent from './hook-function/update-use-state/MyComponent'
 
 function App() {
   return (
-   <MyComponent />
+   <MyComponent/>
   );
 }
 
