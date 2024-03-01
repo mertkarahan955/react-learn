@@ -1,9 +1,8 @@
-import DigitalClock from './hook-function/use-effect/DigitalClock';
-
+import ComponentA from './hook-function/use-context/ComponentA.jsx';
 
 function App() {
   return (
-   <DigitalClock/>
+   <ComponentA/>
   );
 }
 
