@@ -1,7 +1,9 @@
-import UserRefComponent from './hook-function/use-ref/UseRefComponent.jsx';
+import Stopwatch from './hook-function/use-ref/Stopwatch';
 function App() {
-  return (
-   <UserRefComponent/>
+  return (<>
+   <Stopwatch/>
+   <Stopwatch/>
+   </>
   );
 }
 
