@@ -1,8 +1,9 @@
-import ToDoList from './to-do-list-app/ToDoList';
+import DigitalClock from './hook-function/use-effect/DigitalClock';
+
 
 function App() {
   return (
-   <ToDoList/>
+   <DigitalClock/>
   );
 }
 
