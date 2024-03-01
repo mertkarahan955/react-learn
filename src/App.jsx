@@ -1,8 +1,8 @@
-import MyComponent from './hook-function/update-use-state/MyComponent'
+import CarListUpdate from './list-state-update/CarListUpdate.jsx'
 
 function App() {
   return (
-   <MyComponent/>
+   <CarListUpdate/>
   );
 }
 
